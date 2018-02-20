@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-02-20 21:11:13
 ---
-<iframe width="1280" height="870" src="http://54.191.183.110/swf/sugar.swf" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="870" src="ftp://54.191.183.110/swf/sugar.swf" frameborder="0" allowfullscreen></iframe>
