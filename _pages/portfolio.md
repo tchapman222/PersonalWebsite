@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-02-20 01:30:14
 ---
+It's Wednesday my Dudes
