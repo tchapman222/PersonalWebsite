@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-02-20 21:11:13
 ---
-<iframe width="420" height="315" src="//www.youtube.com/embed/qzOOy1tWBCg?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="870" src="//www.youtube.com/embed/qzOOy1tWBCg?rel=0" frameborder="0" allowfullscreen></iframe>
