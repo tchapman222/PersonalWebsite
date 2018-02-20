@@ -10,4 +10,4 @@ published: true
 post_date: 2018-02-20 01:30:14
 ---
 It's Wednesday my Dudes
-<iframe src=”http://54.191.183.110/Quinn/Quinn.html” width=”1280” height=”870″></iframe>
+<iframe src=”http://54.191.183.110/index.php/portfolio/Quinn/Quinn.html” width=”1280” height=”870″></iframe>
