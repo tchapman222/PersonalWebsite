@@ -10,4 +10,4 @@ published: true
 post_date: 2018-02-20 01:30:14
 ---
 It's Wednesday my Dude
-[embed]http://54.191.183.110/bootstrap/Sugar_Rush.swf[/embed]
+[embed]http://54.191.183.110/bootstrap/Shoot.html[/embed]
