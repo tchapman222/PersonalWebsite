@@ -5,7 +5,7 @@ author: tyler
 post_excerpt: ""
 layout: page
 permalink: >
-  http://54.191.183.110/index.php/sugar-rush/
+  http://54.191.183.110/index.php/portfolio/sugar-rush/
 published: true
 post_date: 2018-02-28 21:51:07
 ---
