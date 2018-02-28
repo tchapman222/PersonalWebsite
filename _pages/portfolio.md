@@ -11,4 +11,4 @@ post_date: 2018-02-20 01:30:14
 ---
 Sugar Rush
 [embed]http://54.191.183.110/bootstrap/Sugar_Rush.swf[/embed]
-<iframe width="1100" height="580" src="//54.191.183.110/bootstrap/Sugar_Rush.swf" frameborder="1" allowfullscreen></iframe>
+<iframe width="900" height="500" src="//54.191.183.110/bootstrap/Sugar_Rush.swf" frameborder="1" allowfullscreen></iframe>
