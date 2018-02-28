@@ -15,4 +15,4 @@ post_date: 2018-02-20 01:30:14
 
 <a href="http://54.191.183.110/index.php/portfolio/grey/">Grey</a>
 
-Life of Hal
+<a href="http://54.191.183.110/index.php/portfolio/life-of-hal/">Life of Hal</a>
