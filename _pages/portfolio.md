@@ -10,4 +10,4 @@ published: true
 post_date: 2018-02-20 01:30:14
 ---
 Sugar Rush
-<iframe width="1050" height="600" src="//54.191.183.110/bootstrap/Sugar_Rush.swf" frameborder="0" allowfullscreen></iframe>
+<iframe width="1050" height="590" src="//54.191.183.110/bootstrap/Sugar_Rush.swf" frameborder="0"></iframe>
