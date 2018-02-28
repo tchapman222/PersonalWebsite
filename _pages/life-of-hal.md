@@ -5,7 +5,7 @@ author: tyler
 post_excerpt: ""
 layout: page
 permalink: >
-  http://54.191.183.110/index.php/life-of-hal/
+  http://54.191.183.110/index.php/portfolio/life-of-hal/
 published: true
 post_date: 2018-02-28 23:30:39
 ---
