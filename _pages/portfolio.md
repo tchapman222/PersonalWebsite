@@ -10,4 +10,4 @@ published: true
 post_date: 2018-02-20 01:30:14
 ---
 It's Wednesday my Dudes
-<iframe src=”54.191.183.110/bootstrap” width=”100%” height=”480″></iframe>
+<iframe src=”google.com” width=”100%” height=”480″></iframe>
