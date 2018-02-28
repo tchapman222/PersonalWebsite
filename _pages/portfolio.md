@@ -9,5 +9,5 @@ permalink: >
 published: true
 post_date: 2018-02-20 01:30:14
 ---
-It's Wednesday my Dudes
+It's Wednesday my Dude
 <iframe src=”google.com” width=”100%” height=”480″></iframe>
