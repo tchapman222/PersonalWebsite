@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-02-28 21:51:07
 ---
-<iframe width="250%" height="590" src="//54.191.183.110/bootstrap/Sugar_Rush.swf" frameborder="0"></iframe>
+<iframe width="225%" height="590" src="//54.191.183.110/bootstrap/Sugar_Rush.swf" frameborder="0"></iframe>
